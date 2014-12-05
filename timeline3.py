@@ -1,0 +1,34 @@
+time_line = open(r'/Users/matthewpleasant/desktop/timeline_text4.txt', 'a')
+
+code2 = [ 'Austin Bradley Childers', 'Steve Georgiou and Flora Georgiou', 'Walter L. Wright', 'Eric Maurice Whitfield', 'Juan Castillo', 'George Rivera', 'Richard Len', 'Curtis Chancey', 'Thomas Jamar Mills', 'Billy Ray Elkins', 'Officers Yaslowitz and Baitinger', 'Scott Standard', 'Beau Schenecker and Calyx Schenecker', 'Frank F. Taveras', 'Timothy Preston', 'Joseph S. Brignoli', 'Officer David Crawford', 'Jorge Juarez', 'Jason Bahamonde (shot during robbery)', 'Michael Smith Ayuso', 'Albert F. Hill (Suspect)', 'Tommy Jermaine Chandler', 'Michael Howard Schriebman, Sarah Bricker Schriebman and Mara S. Shuman', 'Marquell Burge', 'Ebony M. Stewart', 'Ignacio David Aponte-Muriel', 'Kenneth Ellis', 'Kenardo Frazer', 'Sabrina Broxton', 'Derrick Kelly Harris and William John Hamilton', 'No Arrest - Joe Denard (shooter)', 'Courtney Yates (male)', 'Anson B. Felton (Suspect)', 'James M. Cooper and James Thomas Kouzaris', 'Willie Demetrius Nimmons', 'Melissa Morrison', 'Coryell Parker', 'James Allen Davis', 'Anthony Hill', 'Kentavis Ingram', 'Ruben Gonzalez', 'Kassidie Rae McMilin', 'Vicandi D. Simpson', 'Mathew F. Little', 'Walter "JJ" Revear', 'Antonio Martinez', 'Kim Colin Cox', 'Orville Uhl', 'Olester Clemons', 'Anthony B. Cox', 'Charles Daniels', 'Marta Negron and Luis Fernandez', 'Kiara Brito (16) and Jeremi Brito (13)', 'Henry D. Brinkley', 'Megan E. Sullivan', 'Willie James Hadley', 'Robert Mann (drug-related)', 'Kelvin Bagley [burglar]', 'Jose Rafael Murillo', 'Casey Steven Garber', 'Eric Sutton', 'Harold Lafever', 'Ernie R. Crane', 'Carl R. Kidd', 'Tyler J. Slipko', 'Angelo J. Barbery', 'Elvis Ruiz', 'Muzaffer Ayhan', 'Jasper Williams', 'Iesha D. Washington and Craig A. Thompson', 'Leona Field', 'Nancy Olms', 'Roman Hall', 'Penny Lynne Searce', 'Michelle Nicole Monroe', 'Michael Pfeifer', 'Timothy Rainey', 'Rogelio Garcia-Maristany', 'Jason Matthew Stone', 'Kamar Allen', 'Eduardo Quesada', 'Kenneth Myron Staley', 'Richard D. Coney', 'James Collins', 'Ralph J. Ameduri Jr.', 'Trayon Goff and Gwnette Matthews', 'Luis A. Fuente', 'Theresa Brown Fogle and Rev. Carl Stewart', 'Zorana Lebedik', 'Reynard Jackson', 'Hakeem Murray', 'Leslie Jones Jr.', 'Frederick P. Drew', 'Jeffrey Mark Matthews', 'Jaime Magana Jr.', 'Marilyn Rivera Tejada', 'Peter Rakowski and Colbert Collins', 'Antonio N. Bligen', 'Desmond Johnson', 'Ervin Perez', 'Michael Massaline', 'John Singleton', 'Timothy Miller', 'Vincente Valerio-Centeno', 'Hipolito Padilla III', 'Elizabeth Jacobsen', 'Jamarie Lavon Hodges', 'Charon Shaw', 'Candice Jean Hamm', 'Laronia Fay Bowers (Edward Eugene Mincey - survived)', 'Vincent Lee', 'James Brotherton', 'Rafael Perez', 'Lindsay Bellows', 'Darren Black', 'Naomi M. Clyburn', 'Tanya Thomas', 'Cedric Devone Saunders', 'Officer Arnulfo Crispin', 'Landy Martinez-Esquivel', 'Carl Lee Martin', 'Alan Biraghi', 'Mohammod Islam' ]
+
+date1 = [ '1-1-2011','1-4-2011','1-5-2011','1-8-2011','1-8-2011','1-9-2011','1-12-2011','1-14-2011','1-15-2011','1-18-2011','1-24-2011','1-24-2011','1-27-2011','1-29-2011','1-29-2011','2-6-2011','2-21-2011','2-26-2011','2-26-2011','3-6-2011','3-12-2011','3-14-2011','3-14-2011','3-17-2011','3-23-2011','3-23-2011','3-29-2011','3-31-2011','4-2-2011','4-3-2011','4-4-2011','4-9-2011','4-12-2011','4-16-2011','4-17-2011','4-24-2011','4-27-2011','4-29-2011','5-2-2011','5-8-2011','5-12-2011','5-12-2011','5-14-2011','5-16-2011','5-18-2011','5-20-2011','5-24-2011','5-27-2011','5-28-2011','5-29-2011','6-1-2011','6-4-2011','6-5-2011','6-7-2011','6-11-2011','6-13-2011','6-21-2011','6-22-2011','6-26-2011','6-27-2011','7-7-2011','7-14-2011','7-14-2011','7-15-2011','7-21-2011','7-22-2011','7-23-2011','7-25-2011','7-28-2011','7-30-2011','7-30-2011','8-5-2011','8-6-2011','8-6-2011', '8-13-2011','8-16-2011','8-17-2011','8-18-2011','8-18-2011','8-20-2011','8-24-2011','8-27-2011','9-3-2011','9-8-2011','9-10-2011','9-10-2011','9-17-2011','9-18-2011','9-25-2011','10-1-2011','10-1-2011','10-2-2011','10-2-2011','10-7-2011','10-7-2011','10-12-2011','10-15-2011','10-16-2011','10-22-2011','10-22-2011','10-24-2011','10-29-2011','11-1-2011','11-1-2011','11-5-2011','11-5-2011','11-6-2011','11-9-2011','11-11-2011','11-12-2011','11-16-2011','11-22-2011','11-23-2011','11-24-2011','11-26-2011','11-26-2011','11-26-2011','12-9-2011','12-18-2011','12-21-2011','12-22-2011','12-24-2011','12-28-2011']
+    
+date2 = [ 'Jan. 1', 'Jan. 4', 'Jan. 5', 'Jan. 8', 'Jan. 8', 'Jan. 9', 'Jan. 12', 'Jan. 14', 'Jan. 15', 'Jan. 18', 'Jan. 24', 'Jan. 24', 'Jan. 27', 'Jan. 29', 'Jan. 29', 'Feb. 6', 'Feb. 21', 'Feb. 26', 'Feb. 26', 'March 6', 'March 12', 'March 14', 'March 14', 'March 17', 'March 23', 'March 23', 'March 29', 'March 31', 'April 2', 'April 3', 'April 4', 'April 9', 'April 12', 'April 16', 'April 17', 'April 24', 'April 27', 'April 29', 'May 2', 'May 8', 'May 12', 'May 12', 'May 14', 'May 16', 'May 18', 'May 20', 'May 24', 'May 27', 'May 28', 'May 29', 'June 1', 'June 4', 'June 5', 'June 7', 'June 11', 'June 13', 'June 21', 'June 22', 'June 26', 'June 27', 'July 7', 'July 14', 'July 14', 'July 15', 'July 21', 'July 22', 'July 23', 'July 25', 'July 28', 'July 30', 'July 30', 'Aug. 5', 'Aug. 6', 'Aug. 6', 'Aug. 13', 'Aug. 16', 'Aug. 17', 'Aug. 18', 'Aug. 18', 'Aug. 20', 'Aug. 24', 'Aug. 27', 'Sept. 3', 'Sept. 8', 'Sept. 10', 'Sept. 10', 'Sept. 17', 'Sept. 18', 'Sept. 25', 'Oct. 1', 'Oct. 1', 'Oct. 2', 'Oct. 2', 'Oct. 7', 'Oct. 7', 'Oct. 12', 'Oct. 15', 'Oct. 16', 'Oct. 22', 'Oct. 22', 'Oct. 24', 'Oct. 29', 'Nov. 1', 'Nov. 1', 'Nov. 5', 'Nov. 5', 'Nov. 6', 'Nov. 9', 'Nov. 11', 'Nov. 12', 'Nov. 16', 'Nov. 22', 'Nov. 23', 'Nov. 24', 'Nov. 26', 'Nov. 26', 'Nov. 26', 'Dec. 9', 'Dec. 18', 'Dec. 21', 'Dec. 22', 'Dec. 24', 'Dec. 28' ] 
+
+def main():
+    panel_one()
+    panel_two()
+    time_line.close()
+
+def panel_one():
+    index = 0
+    number = 1
+    for name in code2:
+        panel1 = "\n<!-- panel -->\n<div class=\"panel\">\n<div class=\"panel_content\">\n    <h2><p>" + \
+        name + "</p></h2>\n        <a href=\"#answer" + \
+            str(number) + "\" onclick=\"return showAnswer('answer" + str(number) + \
+            "');\"><img class=\"thumb\" src=\"images/ PHOTO HERE \" alt=\"" + name + " (victim)\"></a>\n        <h2><p>" + \
+            date1[index] + "</p></h2>\n    <div class=\"label\">" + date2[index] + "</div>\n        <div class=\"clear_both\"></div>\n    </div>\n</div>\n<!--panel-->\n"
+        time_line.write(panel1)
+        index += 1
+        number += 1
+
+def panel_two():
+	number = 1
+	for name in code2:
+            panel2 = "\n<li><a href=\"#answer" + str(number) + "\" onclick=\"return showAnswer('answer" + str(number) + "');\">" + name + "</a></li>\n"
+            time_line.write(panel2)
+            number += 1
+        
+main()

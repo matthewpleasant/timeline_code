@@ -1,0 +1,180 @@
+
+<!-- panel -->
+<div class="panel">
+<div class="panel_content">
+    <h2><p>Keith A. Lewandowski</p></h2>
+        <a href="#answer1" onclick="return showAnswer('answer1');"><img class="thumb" src="images/(victim)KEITH A LEWANDOWSKI,-DOB-7-22-65" alt="Keith A. Lewandowski (victim)"></a>
+        <h2><p>7/3/2012</p></h2>
+    <div class="label">'Jul 3, 2012:',</div>
+        <div class="clear_both"></div>
+    </div>
+</div>
+<!--panel-->
+
+<!-- panel -->
+<div class="panel">
+<div class="panel_content">
+    <h2><p>Ceola Lazier III</p></h2>
+        <a href="#answer1" onclick="return showAnswer('answer1');"><img class="thumb" src="images/Ceola D. Lazier (victim) BPD - unknown suspect - 7-3-12" alt="Ceola Lazier III (victim)"></a>
+        <h2><p>7/3/2012</p></h2>
+    <div class="label">'Jul 3, 2012:',</div>
+        <div class="clear_both"></div>
+    </div>
+</div>
+<!--panel-->
+
+<!-- panel -->
+<div class="panel">
+<div class="panel_content">
+    <h2><p>Pablo Bonilla</p></h2>
+        <a href="#answer1" onclick="return showAnswer('answer1');"><img class="thumb" src="images/Pablo Bonilla Bk #11008536Pablo Bonilla (victim) HCSO - Jordan McKenna (suspect) - 7-14-12" alt="Pablo Bonilla (victim)"></a>
+        <h2><p>7/14/2012</p></h2>
+    <div class="label">'Jul 14, 2012:',</div>
+        <div class="clear_both"></div>
+    </div>
+</div>
+<!--panel-->
+
+<!-- panel -->
+<div class="panel">
+<div class="panel_content">
+    <h2><p>Fred L. Edwards</p></h2>
+        <a href="#answer1" onclick="return showAnswer('answer1');"><img class="thumb" src="images/Fred Edwards (victim) BPD - unknown suspect - 7-14-12" alt="Fred L. Edwards (victim)"></a>
+        <h2><p>7/14/2012</p></h2>
+    <div class="label">'Jul 14, 2012:',</div>
+        <div class="clear_both"></div>
+    </div>
+</div>
+<!--panel-->
+
+<!-- panel -->
+<div class="panel">
+<div class="panel_content">
+    <h2><p>Julius Larrance</p></h2>
+        <a href="#answer1" onclick="return showAnswer('answer1');"><img class="thumb" src="images/Need info" alt="Julius Larrance (victim)"></a>
+        <h2><p>7/25/2012</p></h2>
+    <div class="label">'Jul 25, 2012:',</div>
+        <div class="clear_both"></div>
+    </div>
+</div>
+<!--panel-->
+
+<!-- panel -->
+<div class="panel">
+<div class="panel_content">
+    <h2><p>Jamie L. Seeger</p></h2>
+        <a href="#answer1" onclick="return showAnswer('answer1');"><img class="thumb" src="images/JAMIE SEEGER (VICTIM)-CITRUS-MALSON (SUSPECTS) 07-25-12-victim " alt="Jamie L. Seeger (victim)"></a>
+        <h2><p>7/25/2012</p></h2>
+    <div class="label">'Jul 25, 2012:',</div>
+        <div class="clear_both"></div>
+    </div>
+</div>
+<!--panel-->
+
+<!-- panel -->
+<div class="panel">
+<div class="panel_content">
+    <h2><p>Luther T. Shaw</p></h2>
+        <a href="#answer1" onclick="return showAnswer('answer1');"><img class="thumb" src="images/Luther T. Shaw (victim-DL) Tarpon PD - (unknown suspect) - 7-3-12  12-2169" alt="Luther T. Shaw (victim)"></a>
+        <h2><p>7/31/2012</p></h2>
+    <div class="label">'Jul 31, 2012:',</div>
+        <div class="clear_both"></div>
+    </div>
+</div>
+<!--panel-->
+
+<!-- panel -->
+<div class="panel">
+<div class="panel_content">
+    <h2><p>Deborah Davenport</p></h2>
+        <a href="#answer1" onclick="return showAnswer('answer1');"><img class="thumb" src="images/Need info" alt="Deborah Davenport (victim)"></a>
+        <h2><p>8/1/2012</p></h2>
+    <div class="label">'Aug 1, 2012:',</div>
+        <div class="clear_both"></div>
+    </div>
+</div>
+<!--panel-->
+
+<!-- panel -->
+<div class="panel">
+<div class="panel_content">
+    <h2><p>Sam Dreher</p></h2>
+        <a href="#answer1" onclick="return showAnswer('answer1');"><img class="thumb" src="images/Sam Dreher (victim) - S'sota SO DREHER, SAM LT(cropped)" alt="Sam Dreher (victim)"></a>
+        <h2><p>8/4/2012</p></h2>
+    <div class="label">'Aug 4, 2012:',</div>
+        <div class="clear_both"></div>
+    </div>
+</div>
+<!--panel-->
+
+<!-- panel -->
+<div class="panel">
+<div class="panel_content">
+    <h2><p>Ernest Curry</p></h2>
+        <a href="#answer1" onclick="return showAnswer('answer1');"><img class="thumb" src="images/Need info" alt="Ernest Curry (victim)"></a>
+        <h2><p>8/5/2012</p></h2>
+    <div class="label">'Aug 5, 2012:',</div>
+        <div class="clear_both"></div>
+    </div>
+</div>
+<!--panel-->
+
+<!-- panel -->
+<div class="panel">
+<div class="panel_content">
+    <h2><p>Christian Reynolds Robinson</p></h2>
+        <a href="#answer1" onclick="return showAnswer('answer1');"><img class="thumb" src="images/Need info" alt="Christian Reynolds Robinson (victim)"></a>
+        <h2><p>8/7/2012</p></h2>
+    <div class="label">'Aug 7, 2012:',</div>
+        <div class="clear_both"></div>
+    </div>
+</div>
+<!--panel-->
+
+<!-- panel -->
+<div class="panel">
+<div class="panel_content">
+    <h2><p>Elizabeth Behrens</p></h2>
+        <a href="#answer1" onclick="return showAnswer('answer1');"><img class="thumb" src="images/Need info" alt="Elizabeth Behrens (victim)"></a>
+        <h2><p>8/9/2012</p></h2>
+    <div class="label">'Aug 9, 2012:',</div>
+        <div class="clear_both"></div>
+    </div>
+</div>
+<!--panel-->
+
+<!-- panel -->
+<div class="panel">
+<div class="panel_content">
+    <h2><p>Antonio Campos</p></h2>
+        <a href="#answer1" onclick="return showAnswer('answer1');"><img class="thumb" src="images/Antonio Campos Bk #09025885Antonio Campos (victim) HCSO - Victor Herrera-Cruz (suspect) - 8-12-12" alt="Antonio Campos (victim)"></a>
+        <h2><p>8/12/2012</p></h2>
+    <div class="label">'Aug 12, 2012:',</div>
+        <div class="clear_both"></div>
+    </div>
+</div>
+<!--panel-->
+
+<!-- panel -->
+<div class="panel">
+<div class="panel_content">
+    <h2><p>Aureliano Quezada</p></h2>
+        <a href="#answer1" onclick="return showAnswer('answer1');"><img class="thumb" src="images/Need info" alt="Aureliano Quezada (victim)"></a>
+        <h2><p>8/15/2012</p></h2>
+    <div class="label">'Aug 15, 2012:',</div>
+        <div class="clear_both"></div>
+    </div>
+</div>
+<!--panel-->
+
+<!-- panel -->
+<div class="panel">
+<div class="panel_content">
+    <h2><p>Eric L. Span</p></h2>
+        <a href="#answer1" onclick="return showAnswer('answer1');"><img class="thumb" src="images/Eric L. Span (victim) BPD - unknown suspect - 8-19-12" alt="Eric L. Span (victim)"></a>
+        <h2><p>8/19/2012</p></h2>
+    <div class="label">'Aug 19, 2012:',</div>
+        <div class="clear_both"></div>
+    </div>
+</div>
+<!--panel-->
